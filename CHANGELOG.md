@@ -25,3 +25,7 @@
 
 - PR: Merge feature/change-to-pathlib with pathlib changes to master
 - Looks like even with modifications(not just additions) we wont get merge conflicts
+
+## 2021-04-30 00:20 - feature/join
+
+- COMMIT: Add function join to join a path to a folder path
