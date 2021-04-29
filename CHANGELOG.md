@@ -25,3 +25,7 @@
 
 - PR: Merge feature/change-to-pathlib with pathlib changes to master
 - Looks like even with modifications(not just additions) we wont get merge conflicts
+
+## 2021-04-30 00:25 - master
+
+- COMMIT: Add __version__ to __init__.py
