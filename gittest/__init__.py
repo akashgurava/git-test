@@ -7,3 +7,5 @@ from gittest.osops import (
     get_foldername as get_foldername,
     join as join,
 )
+
+__version__ = "0.2.0"
