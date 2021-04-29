@@ -20,3 +20,8 @@
 ## 2021-04-30 00:08 - feature/change-to-pathlib
 
 - COMMIT: Add pathlib to .vscode/settings.json.cSpell
+
+## 2021-04-30 00:08 - master
+
+- PR: Merge feature/change-to-pathlib with pathlib changes to master
+- Looks like even with modifications(not just additions) we wont get merge conflicts
