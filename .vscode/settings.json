@@ -1,0 +1,15 @@
+{
+    "editor.formatOnSave": true,
+    // Python
+    "python.formatting.provider": "black",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    // Pylance
+    "python.languageServer": "Pylance",
+    "python.analysis.typeCheckingMode": "strict",
+    "python.analysis.autoImportCompletions": true,
+    // Spelling Words
+    "cSpell.words": [
+        "osops"
+    ],
+}
