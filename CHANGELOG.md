@@ -16,3 +16,7 @@
 ## 2021-04-30 00:04 - feature/change-to-pathlib
 
 - COMMIT: Change osops to use pathlib instead of os.path
+
+## 2021-04-30 00:08 - feature/change-to-pathlib
+
+- COMMIT: Add pathlib to .vscode/settings.json.cSpell
