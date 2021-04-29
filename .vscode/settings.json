@@ -10,6 +10,7 @@
     "python.analysis.autoImportCompletions": true,
     // Spelling Words
     "cSpell.words": [
-        "osops"
+        "osops",
+        "pathlib"
     ],
 }
